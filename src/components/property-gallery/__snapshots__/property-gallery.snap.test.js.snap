@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test PropertyGallery component PropertyGallery component should render correctly 1`] = `
+<div>
+  <div
+    class="property__gallery-container container"
+  >
+    <div
+      class="property__gallery"
+    >
+      <div
+        class="property__image-wrapper"
+      >
+        <img
+          alt="Photo studio"
+          class="property__image"
+          src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/3.jpg"
+        />
+      </div>
+      <div
+        class="property__image-wrapper"
+      >
+        <img
+          alt="Photo studio"
+          class="property__image"
+          src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/7.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

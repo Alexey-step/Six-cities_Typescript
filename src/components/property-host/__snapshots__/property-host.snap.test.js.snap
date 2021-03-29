@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test PropertyHost component PropertyHost component should render correctly 1`] = `
+<div>
+  <div
+    class="property__host"
+  >
+    <h2
+      class="property__host-title"
+    >
+      Meet the host
+    </h2>
+    <div
+      class="property__host-user user"
+    >
+      <div
+        class="property__avatar-wrapper property__avatar-wrapper--pro user__avatar-wrapper"
+      >
+        <img
+          alt="Host avatar"
+          class="property__avatar user__avatar"
+          height="74"
+          src="img/avatar-angelina.jpg"
+          width="74"
+        />
+      </div>
+      <span
+        class="property__user-name"
+      >
+        Angelina
+      </span>
+    </div>
+    <div
+      class="property__description"
+    >
+      <p
+        class="property__text"
+      >
+        Relax, rejuvenate and unplug in this ultimate rustic getaway experience in the country. In our beautiful screened Pondhouse, you can gaze at the stars and listen to the sounds of nature from your cozy warm bed.
+      </p>
+    </div>
+  </div>
+</div>
+`;

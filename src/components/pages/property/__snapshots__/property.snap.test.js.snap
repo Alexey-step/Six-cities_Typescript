@@ -1,0 +1,1636 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Property component Property component should render correctly 1`] = `
+<div>
+  <div
+    class="page"
+  >
+    <header
+      class="header"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="header__wrapper"
+        >
+          <div
+            class="header__left"
+          >
+            <a
+              class="header__logo-link header__logo-link--active"
+              href="/"
+            >
+              <img
+                alt="6 cities logo"
+                class="header__logo"
+                height="41"
+                src="img/logo.svg"
+                width="81"
+              />
+            </a>
+          </div>
+          <nav
+            class="header__nav"
+          >
+            <ul
+              class="header__nav-list"
+            >
+              <li
+                class="header__nav-item user"
+              >
+                <a
+                  class="header__nav-link header__nav-link--profile"
+                  href="/login"
+                >
+                  <span
+                    class="header__user-name user__name"
+                  >
+                    Sign In
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main
+      class="page__main page__main--property"
+    >
+      <section
+        class="property"
+      >
+        <div
+          class="property__gallery-container container"
+        >
+          <div
+            class="property__gallery"
+          >
+            <div
+              class="property__image-wrapper"
+            >
+              <img
+                alt="Photo studio"
+                class="property__image"
+                src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/3.jpg"
+              />
+            </div>
+            <div
+              class="property__image-wrapper"
+            >
+              <img
+                alt="Photo studio"
+                class="property__image"
+                src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/7.jpg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="property__container container"
+        >
+          <div
+            class="property__wrapper"
+          >
+            <div
+              class="property__mark"
+            >
+              <span>
+                Premium
+              </span>
+            </div>
+            <div
+              class="property__name-wrapper"
+            >
+              <h1
+                class="property__name"
+              >
+                Tile House
+              </h1>
+              <button
+                class="property__bookmark-button button false"
+                type="button"
+              >
+                <svg
+                  class="property__bookmark-icon"
+                  height="33"
+                  width="31"
+                >
+                  <use
+                    href="#icon-bookmark"
+                    xlink="true"
+                  />
+                </svg>
+                <span
+                  class="visually-hidden"
+                >
+                  To bookmarks
+                </span>
+              </button>
+            </div>
+            <div
+              class="property__rating rating"
+            >
+              <div
+                class="property__stars rating__stars"
+              >
+                <span
+                  style="width: 40%;"
+                />
+                <span
+                  class="visually-hidden"
+                >
+                  Rating
+                </span>
+              </div>
+              <span
+                class="property__rating-value rating__value"
+              >
+                2
+              </span>
+            </div>
+            <ul
+              class="property__features"
+            >
+              <li
+                class="property__feature property__feature--entire"
+              >
+                house
+              </li>
+              <li
+                class="property__feature property__feature--bedrooms"
+              >
+                2
+                 Bedrooms
+              </li>
+              <li
+                class="property__feature property__feature--adults"
+              >
+                Max 
+                9
+                 adults
+              </li>
+            </ul>
+            <div
+              class="property__price"
+            >
+              <b
+                class="property__price-value"
+              >
+                €
+                161
+              </b>
+              <span
+                class="property__price-text"
+              >
+                 night
+              </span>
+            </div>
+            <div
+              class="property__inside"
+            >
+              <h2
+                class="property__inside-title"
+              >
+                What's inside
+              </h2>
+              <ul
+                class="property__inside-list"
+              >
+                <li
+                  class="property__inside-item"
+                >
+                  Laptop friendly workspace
+                </li>
+                <li
+                  class="property__inside-item"
+                >
+                  Washer
+                </li>
+                <li
+                  class="property__inside-item"
+                >
+                  Breakfast
+                </li>
+                <li
+                  class="property__inside-item"
+                >
+                  Air conditioning
+                </li>
+              </ul>
+            </div>
+            <div
+              class="property__host"
+            >
+              <h2
+                class="property__host-title"
+              >
+                Meet the host
+              </h2>
+              <div
+                class="property__host-user user"
+              >
+                <div
+                  class="property__avatar-wrapper property__avatar-wrapper--pro user__avatar-wrapper"
+                >
+                  <img
+                    alt="Host avatar"
+                    class="property__avatar user__avatar"
+                    height="74"
+                    src="img/avatar-angelina.jpg"
+                    width="74"
+                  />
+                </div>
+                <span
+                  class="property__user-name"
+                >
+                  Angelina
+                </span>
+              </div>
+              <div
+                class="property__description"
+              >
+                <p
+                  class="property__text"
+                >
+                  Relax, rejuvenate and unplug in this ultimate rustic getaway experience in the country. In our beautiful screened Pondhouse, you can gaze at the stars and listen to the sounds of nature from your cozy warm bed.
+                </p>
+              </div>
+            </div>
+            <section
+              class="property__reviews reviews"
+            >
+              <h2
+                class="reviews__title"
+              >
+                Reviews · 
+                <span
+                  class="reviews__amount"
+                >
+                  2
+                </span>
+              </h2>
+              <ul
+                class="reviews__list"
+              >
+                <li
+                  class="reviews__item"
+                >
+                  <div
+                    class="reviews__user user"
+                  >
+                    <div
+                      class="reviews__avatar-wrapper user__avatar-wrapper"
+                    >
+                      <img
+                        alt="Reviews avatar"
+                        class="reviews__avatar user__avatar"
+                        height="54"
+                        src="https://assets.htmlacademy.ru/intensives/javascript-3/avatar/2.jpg"
+                        width="54"
+                      />
+                    </div>
+                    <span
+                      class="reviews__user-name"
+                    >
+                      Jack
+                    </span>
+                  </div>
+                  <div
+                    class="reviews__info"
+                  >
+                    <div
+                      class="reviews__rating rating"
+                    >
+                      <div
+                        class="reviews__stars rating__stars"
+                      >
+                        <span
+                          style="width: 60%;"
+                        />
+                        <span
+                          class="visually-hidden"
+                        >
+                          Rating
+                        </span>
+                      </div>
+                    </div>
+                    <p
+                      class="reviews__text"
+                    >
+                      I stayed here for one night and it was an unpleasant experience.
+                    </p>
+                    <time
+                      class="reviews__time"
+                      datetime="2019-04-24"
+                    >
+                      February 2021
+                    </time>
+                  </div>
+                </li>
+                <li
+                  class="reviews__item"
+                >
+                  <div
+                    class="reviews__user user"
+                  >
+                    <div
+                      class="reviews__avatar-wrapper user__avatar-wrapper"
+                    >
+                      <img
+                        alt="Reviews avatar"
+                        class="reviews__avatar user__avatar"
+                        height="54"
+                        src="https://assets.htmlacademy.ru/intensives/javascript-3/avatar/2.jpg"
+                        width="54"
+                      />
+                    </div>
+                    <span
+                      class="reviews__user-name"
+                    >
+                      Jack
+                    </span>
+                  </div>
+                  <div
+                    class="reviews__info"
+                  >
+                    <div
+                      class="reviews__rating rating"
+                    >
+                      <div
+                        class="reviews__stars rating__stars"
+                      >
+                        <span
+                          style="width: 80%;"
+                        />
+                        <span
+                          class="visually-hidden"
+                        >
+                          Rating
+                        </span>
+                      </div>
+                    </div>
+                    <p
+                      class="reviews__text"
+                    >
+                      The deluxe room was a quite comfortable one with all the adequate facilities. The only thing that made me feel uncomfortable was the rude behavior of an impolite staff at the reception desk.
+                    </p>
+                    <time
+                      class="reviews__time"
+                      datetime="2019-04-24"
+                    >
+                      February 2021
+                    </time>
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+        <section
+          class="property__map map"
+        >
+          <div
+            class="leaflet-container leaflet-grab leaflet-touch-drag"
+            id="map"
+            style="width: 1144px; height: 579px; margin: 0px auto; position: relative;"
+            tabindex="0"
+          >
+            <div
+              class="leaflet-pane leaflet-map-pane"
+              style="left: 0px; top: 0px;"
+            >
+              <div
+                class="leaflet-pane leaflet-tile-pane"
+              >
+                <div
+                  class="leaflet-layer "
+                  style="z-index: 1;"
+                >
+                  <div
+                    class="leaflet-tile-container leaflet-zoom-animated"
+                    style="z-index: 18; left: 0px; top: 0px;"
+                  >
+                    <img
+                      alt=""
+                      class="leaflet-tile"
+                      role="presentation"
+                      src="https://b.basemaps.cartocdn.com/rastertiles/voyager/13/4149/2818.png"
+                      style="width: 256px; height: 256px; left: -130px; top: -72px;"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="leaflet-pane leaflet-shadow-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-overlay-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-marker-pane"
+              >
+                <img
+                  alt=""
+                  class="leaflet-marker-icon leaflet-zoom-hide leaflet-interactive"
+                  src="./img/pin.svg"
+                  style="margin-left: -13.5px; margin-top: -19.5px; width: 27px; height: 39px; left: 41px; top: -9px; z-index: -9;"
+                  tabindex="0"
+                />
+                <img
+                  alt=""
+                  class="leaflet-marker-icon leaflet-zoom-hide leaflet-interactive"
+                  src="./img/pin.svg"
+                  style="margin-left: -13.5px; margin-top: -19.5px; width: 27px; height: 39px; left: 41px; top: -9px; z-index: -9;"
+                  tabindex="0"
+                />
+                <img
+                  alt=""
+                  class="leaflet-marker-icon leaflet-zoom-hide leaflet-interactive"
+                  src="./img/pin-active.svg"
+                  style="margin-left: -13.5px; margin-top: -19.5px; width: 27px; height: 39px; left: 41px; top: -9px; z-index: -9;"
+                  tabindex="0"
+                />
+              </div>
+              <div
+                class="leaflet-pane leaflet-tooltip-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-popup-pane"
+              />
+            </div>
+            <div
+              class="leaflet-control-container"
+            >
+              <div
+                class="leaflet-top leaflet-left"
+              />
+              <div
+                class="leaflet-top leaflet-right"
+              />
+              <div
+                class="leaflet-bottom leaflet-left"
+              />
+              <div
+                class="leaflet-bottom leaflet-right"
+              >
+                <div
+                  class="leaflet-control-attribution leaflet-control"
+                >
+                  <a
+                    href="https://leafletjs.com"
+                    title="A JS library for interactive maps"
+                  >
+                    Leaflet
+                  </a>
+                   | © 
+                  <a
+                    href="https://www.openstreetmap.org/copyright"
+                  >
+                    OpenStreetMap
+                  </a>
+                   contributors © 
+                  <a
+                    href="https://carto.com/attributions"
+                  >
+                    CARTO
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </section>
+      <div
+        class="container"
+      >
+        <section
+          class="near-places places"
+        >
+          <h2
+            class="near-places__title"
+          >
+            Other places in the neighbourhood
+          </h2>
+          <div
+            class="near-places__list places__list "
+          >
+            <article
+              class="near-places__card place-card"
+              data-testid="mouse"
+            >
+              <div
+                class="place-card__mark"
+              >
+                <span>
+                  Premium
+                </span>
+              </div>
+              <div
+                class="near-places__image-wrapper place-card__image-wrapper"
+                data-testid="scroll"
+              >
+                <a
+                  href="/offer/1"
+                >
+                  <img
+                    alt="Place image"
+                    class="place-card__image"
+                    height="200"
+                    src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/19.jpg"
+                    width="260"
+                  />
+                </a>
+              </div>
+              <div
+                class=" place-card__info"
+              >
+                <div
+                  class="place-card__price-wrapper"
+                >
+                  <div
+                    class="place-card__price"
+                  >
+                    <b
+                      class="place-card__price-value"
+                    >
+                      €
+                      161
+                    </b>
+                    <span
+                      class="place-card__price-text"
+                    >
+                      / night
+                    </span>
+                  </div>
+                  <button
+                    class="place-card__bookmark-button button false"
+                    type="button"
+                  >
+                    <svg
+                      class="place-card__bookmark-icon"
+                      height="19"
+                      width="18"
+                    >
+                      <use
+                        href="#icon-bookmark"
+                        xlink="true"
+                      />
+                    </svg>
+                    <span
+                      class="visually-hidden"
+                    >
+                      To bookmarks
+                    </span>
+                  </button>
+                </div>
+                <div
+                  class="place-card__rating rating"
+                >
+                  <div
+                    class="place-card__stars rating__stars"
+                  >
+                    <span
+                      style="width: 40%;"
+                    />
+                    <span
+                      class="visually-hidden"
+                    >
+                      Rating
+                    </span>
+                  </div>
+                </div>
+                <h2
+                  class="place-card__name"
+                >
+                  <a
+                    href="/offer/1"
+                  >
+                    Tile House
+                  </a>
+                </h2>
+                <p
+                  class="place-card__type"
+                >
+                  house
+                </p>
+              </div>
+            </article>
+            <article
+              class="near-places__card place-card"
+              data-testid="mouse"
+            >
+              <div
+                class="place-card__mark"
+              >
+                <span>
+                  Premium
+                </span>
+              </div>
+              <div
+                class="near-places__image-wrapper place-card__image-wrapper"
+                data-testid="scroll"
+              >
+                <a
+                  href="/offer/2"
+                >
+                  <img
+                    alt="Place image"
+                    class="place-card__image"
+                    height="200"
+                    src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/19.jpg"
+                    width="260"
+                  />
+                </a>
+              </div>
+              <div
+                class=" place-card__info"
+              >
+                <div
+                  class="place-card__price-wrapper"
+                >
+                  <div
+                    class="place-card__price"
+                  >
+                    <b
+                      class="place-card__price-value"
+                    >
+                      €
+                      161
+                    </b>
+                    <span
+                      class="place-card__price-text"
+                    >
+                      / night
+                    </span>
+                  </div>
+                  <button
+                    class="place-card__bookmark-button button false"
+                    type="button"
+                  >
+                    <svg
+                      class="place-card__bookmark-icon"
+                      height="19"
+                      width="18"
+                    >
+                      <use
+                        href="#icon-bookmark"
+                        xlink="true"
+                      />
+                    </svg>
+                    <span
+                      class="visually-hidden"
+                    >
+                      To bookmarks
+                    </span>
+                  </button>
+                </div>
+                <div
+                  class="place-card__rating rating"
+                >
+                  <div
+                    class="place-card__stars rating__stars"
+                  >
+                    <span
+                      style="width: 80%;"
+                    />
+                    <span
+                      class="visually-hidden"
+                    >
+                      Rating
+                    </span>
+                  </div>
+                </div>
+                <h2
+                  class="place-card__name"
+                >
+                  <a
+                    href="/offer/2"
+                  >
+                    Tile House
+                  </a>
+                </h2>
+                <p
+                  class="place-card__type"
+                >
+                  house
+                </p>
+              </div>
+            </article>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Test Property component Property component should render correctly when user authorized 1`] = `
+<div>
+  <div
+    class="page"
+  >
+    <header
+      class="header"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="header__wrapper"
+        >
+          <div
+            class="header__left"
+          >
+            <a
+              class="header__logo-link header__logo-link--active"
+              href="/"
+            >
+              <img
+                alt="6 cities logo"
+                class="header__logo"
+                height="41"
+                src="img/logo.svg"
+                width="81"
+              />
+            </a>
+          </div>
+          <nav
+            class="header__nav"
+          >
+            <ul
+              class="header__nav-list"
+            >
+              <li
+                class="header__nav-item user"
+              >
+                <a
+                  class="header__nav-link header__nav-link--profile"
+                  href="/favorites"
+                >
+                  <div
+                    class="header__avatar-wrapper user__avatar-wrapper"
+                    style="background-image: url(https://assets.htmlacademy.ru/intensives/javascript-3/avatar/3.jpg);"
+                  />
+                  <span
+                    class="header__user-name user__name"
+                  >
+                    mail@gmail.com
+                  </span>
+                </a>
+              </li>
+              <li
+                class="header__nav-item user"
+              >
+                <button
+                  class="header__nav-link header__nav-link--profile header__nav-link--logout"
+                >
+                  <span
+                    class="header__user-name user__name"
+                  >
+                    Logout
+                  </span>
+                </button>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main
+      class="page__main page__main--property"
+    >
+      <section
+        class="property"
+      >
+        <div
+          class="property__gallery-container container"
+        >
+          <div
+            class="property__gallery"
+          >
+            <div
+              class="property__image-wrapper"
+            >
+              <img
+                alt="Photo studio"
+                class="property__image"
+                src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/3.jpg"
+              />
+            </div>
+            <div
+              class="property__image-wrapper"
+            >
+              <img
+                alt="Photo studio"
+                class="property__image"
+                src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/7.jpg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="property__container container"
+        >
+          <div
+            class="property__wrapper"
+          >
+            <div
+              class="property__mark"
+            >
+              <span>
+                Premium
+              </span>
+            </div>
+            <div
+              class="property__name-wrapper"
+            >
+              <h1
+                class="property__name"
+              >
+                Tile House
+              </h1>
+              <button
+                class="property__bookmark-button button false"
+                type="button"
+              >
+                <svg
+                  class="property__bookmark-icon"
+                  height="33"
+                  width="31"
+                >
+                  <use
+                    href="#icon-bookmark"
+                    xlink="true"
+                  />
+                </svg>
+                <span
+                  class="visually-hidden"
+                >
+                  To bookmarks
+                </span>
+              </button>
+            </div>
+            <div
+              class="property__rating rating"
+            >
+              <div
+                class="property__stars rating__stars"
+              >
+                <span
+                  style="width: 40%;"
+                />
+                <span
+                  class="visually-hidden"
+                >
+                  Rating
+                </span>
+              </div>
+              <span
+                class="property__rating-value rating__value"
+              >
+                2
+              </span>
+            </div>
+            <ul
+              class="property__features"
+            >
+              <li
+                class="property__feature property__feature--entire"
+              >
+                house
+              </li>
+              <li
+                class="property__feature property__feature--bedrooms"
+              >
+                2
+                 Bedrooms
+              </li>
+              <li
+                class="property__feature property__feature--adults"
+              >
+                Max 
+                9
+                 adults
+              </li>
+            </ul>
+            <div
+              class="property__price"
+            >
+              <b
+                class="property__price-value"
+              >
+                €
+                161
+              </b>
+              <span
+                class="property__price-text"
+              >
+                 night
+              </span>
+            </div>
+            <div
+              class="property__inside"
+            >
+              <h2
+                class="property__inside-title"
+              >
+                What's inside
+              </h2>
+              <ul
+                class="property__inside-list"
+              >
+                <li
+                  class="property__inside-item"
+                >
+                  Laptop friendly workspace
+                </li>
+                <li
+                  class="property__inside-item"
+                >
+                  Washer
+                </li>
+                <li
+                  class="property__inside-item"
+                >
+                  Breakfast
+                </li>
+                <li
+                  class="property__inside-item"
+                >
+                  Air conditioning
+                </li>
+              </ul>
+            </div>
+            <div
+              class="property__host"
+            >
+              <h2
+                class="property__host-title"
+              >
+                Meet the host
+              </h2>
+              <div
+                class="property__host-user user"
+              >
+                <div
+                  class="property__avatar-wrapper property__avatar-wrapper--pro user__avatar-wrapper"
+                >
+                  <img
+                    alt="Host avatar"
+                    class="property__avatar user__avatar"
+                    height="74"
+                    src="img/avatar-angelina.jpg"
+                    width="74"
+                  />
+                </div>
+                <span
+                  class="property__user-name"
+                >
+                  Angelina
+                </span>
+              </div>
+              <div
+                class="property__description"
+              >
+                <p
+                  class="property__text"
+                >
+                  Relax, rejuvenate and unplug in this ultimate rustic getaway experience in the country. In our beautiful screened Pondhouse, you can gaze at the stars and listen to the sounds of nature from your cozy warm bed.
+                </p>
+              </div>
+            </div>
+            <section
+              class="property__reviews reviews"
+            >
+              <h2
+                class="reviews__title"
+              >
+                Reviews · 
+                <span
+                  class="reviews__amount"
+                >
+                  2
+                </span>
+              </h2>
+              <ul
+                class="reviews__list"
+              >
+                <li
+                  class="reviews__item"
+                >
+                  <div
+                    class="reviews__user user"
+                  >
+                    <div
+                      class="reviews__avatar-wrapper user__avatar-wrapper"
+                    >
+                      <img
+                        alt="Reviews avatar"
+                        class="reviews__avatar user__avatar"
+                        height="54"
+                        src="https://assets.htmlacademy.ru/intensives/javascript-3/avatar/2.jpg"
+                        width="54"
+                      />
+                    </div>
+                    <span
+                      class="reviews__user-name"
+                    >
+                      Jack
+                    </span>
+                  </div>
+                  <div
+                    class="reviews__info"
+                  >
+                    <div
+                      class="reviews__rating rating"
+                    >
+                      <div
+                        class="reviews__stars rating__stars"
+                      >
+                        <span
+                          style="width: 60%;"
+                        />
+                        <span
+                          class="visually-hidden"
+                        >
+                          Rating
+                        </span>
+                      </div>
+                    </div>
+                    <p
+                      class="reviews__text"
+                    >
+                      I stayed here for one night and it was an unpleasant experience.
+                    </p>
+                    <time
+                      class="reviews__time"
+                      datetime="2019-04-24"
+                    >
+                      February 2021
+                    </time>
+                  </div>
+                </li>
+                <li
+                  class="reviews__item"
+                >
+                  <div
+                    class="reviews__user user"
+                  >
+                    <div
+                      class="reviews__avatar-wrapper user__avatar-wrapper"
+                    >
+                      <img
+                        alt="Reviews avatar"
+                        class="reviews__avatar user__avatar"
+                        height="54"
+                        src="https://assets.htmlacademy.ru/intensives/javascript-3/avatar/2.jpg"
+                        width="54"
+                      />
+                    </div>
+                    <span
+                      class="reviews__user-name"
+                    >
+                      Jack
+                    </span>
+                  </div>
+                  <div
+                    class="reviews__info"
+                  >
+                    <div
+                      class="reviews__rating rating"
+                    >
+                      <div
+                        class="reviews__stars rating__stars"
+                      >
+                        <span
+                          style="width: 80%;"
+                        />
+                        <span
+                          class="visually-hidden"
+                        >
+                          Rating
+                        </span>
+                      </div>
+                    </div>
+                    <p
+                      class="reviews__text"
+                    >
+                      The deluxe room was a quite comfortable one with all the adequate facilities. The only thing that made me feel uncomfortable was the rude behavior of an impolite staff at the reception desk.
+                    </p>
+                    <time
+                      class="reviews__time"
+                      datetime="2019-04-24"
+                    >
+                      February 2021
+                    </time>
+                  </div>
+                </li>
+              </ul>
+              <form
+                action="#"
+                class="reviews__form form"
+                method="post"
+              >
+                <label
+                  class="reviews__label form__label"
+                  for="review"
+                >
+                  Your review
+                </label>
+                <div
+                  class="reviews__rating-form form__rating"
+                >
+                  <input
+                    class="form__rating-input visually-hidden"
+                    id="5-stars"
+                    name="rating"
+                    type="radio"
+                    value="5"
+                  />
+                  <label
+                    class="reviews__rating-label form__rating-label"
+                    for="5-stars"
+                    title="perfect"
+                  >
+                    <svg
+                      class="form__star-image"
+                      height="33"
+                      width="37"
+                    >
+                      <use
+                        href="#icon-star"
+                        xlink="true"
+                      />
+                    </svg>
+                  </label>
+                  <input
+                    class="form__rating-input visually-hidden"
+                    id="4-stars"
+                    name="rating"
+                    type="radio"
+                    value="4"
+                  />
+                  <label
+                    class="reviews__rating-label form__rating-label"
+                    for="4-stars"
+                    title="perfect"
+                  >
+                    <svg
+                      class="form__star-image"
+                      height="33"
+                      width="37"
+                    >
+                      <use
+                        href="#icon-star"
+                        xlink="true"
+                      />
+                    </svg>
+                  </label>
+                  <input
+                    class="form__rating-input visually-hidden"
+                    id="3-stars"
+                    name="rating"
+                    type="radio"
+                    value="3"
+                  />
+                  <label
+                    class="reviews__rating-label form__rating-label"
+                    for="3-stars"
+                    title="perfect"
+                  >
+                    <svg
+                      class="form__star-image"
+                      height="33"
+                      width="37"
+                    >
+                      <use
+                        href="#icon-star"
+                        xlink="true"
+                      />
+                    </svg>
+                  </label>
+                  <input
+                    class="form__rating-input visually-hidden"
+                    id="2-stars"
+                    name="rating"
+                    type="radio"
+                    value="2"
+                  />
+                  <label
+                    class="reviews__rating-label form__rating-label"
+                    for="2-stars"
+                    title="perfect"
+                  >
+                    <svg
+                      class="form__star-image"
+                      height="33"
+                      width="37"
+                    >
+                      <use
+                        href="#icon-star"
+                        xlink="true"
+                      />
+                    </svg>
+                  </label>
+                  <input
+                    class="form__rating-input visually-hidden"
+                    id="1-stars"
+                    name="rating"
+                    type="radio"
+                    value="1"
+                  />
+                  <label
+                    class="reviews__rating-label form__rating-label"
+                    for="1-stars"
+                    title="perfect"
+                  >
+                    <svg
+                      class="form__star-image"
+                      height="33"
+                      width="37"
+                    >
+                      <use
+                        href="#icon-star"
+                        xlink="true"
+                      />
+                    </svg>
+                  </label>
+                </div>
+                <textarea
+                  class="reviews__textarea form__textarea"
+                  id="review"
+                  maxlength="300"
+                  name="review"
+                  placeholder="Tell how was your stay, what you like and what can be improved"
+                />
+                <div
+                  class="reviews__button-wrapper"
+                >
+                  <p
+                    class="reviews__help"
+                  >
+                    To submit review please make sure to set 
+                    <span
+                      class="reviews__star"
+                    >
+                      rating
+                    </span>
+                     and describe your stay with at least 
+                    <b
+                      class="reviews__text-amount"
+                    >
+                      50 characters
+                    </b>
+                    .
+                  </p>
+                  <button
+                    class="reviews__submit form__submit button"
+                    disabled=""
+                    type="submit"
+                  >
+                    Submit
+                  </button>
+                </div>
+              </form>
+            </section>
+          </div>
+        </div>
+        <section
+          class="property__map map"
+        >
+          <div
+            class="leaflet-container leaflet-grab leaflet-touch-drag"
+            id="map"
+            style="width: 1144px; height: 579px; margin: 0px auto; position: relative;"
+            tabindex="0"
+          >
+            <div
+              class="leaflet-pane leaflet-map-pane"
+              style="left: 0px; top: 0px;"
+            >
+              <div
+                class="leaflet-pane leaflet-tile-pane"
+              >
+                <div
+                  class="leaflet-layer "
+                  style="z-index: 1;"
+                >
+                  <div
+                    class="leaflet-tile-container leaflet-zoom-animated"
+                    style="z-index: 18; left: 0px; top: 0px;"
+                  >
+                    <img
+                      alt=""
+                      class="leaflet-tile"
+                      role="presentation"
+                      src="https://b.basemaps.cartocdn.com/rastertiles/voyager/13/4149/2818.png"
+                      style="width: 256px; height: 256px; left: -130px; top: -72px;"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="leaflet-pane leaflet-shadow-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-overlay-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-marker-pane"
+              >
+                <img
+                  alt=""
+                  class="leaflet-marker-icon leaflet-zoom-hide leaflet-interactive"
+                  src="./img/pin.svg"
+                  style="margin-left: -13.5px; margin-top: -19.5px; width: 27px; height: 39px; left: 41px; top: -9px; z-index: -9;"
+                  tabindex="0"
+                />
+                <img
+                  alt=""
+                  class="leaflet-marker-icon leaflet-zoom-hide leaflet-interactive"
+                  src="./img/pin.svg"
+                  style="margin-left: -13.5px; margin-top: -19.5px; width: 27px; height: 39px; left: 41px; top: -9px; z-index: -9;"
+                  tabindex="0"
+                />
+                <img
+                  alt=""
+                  class="leaflet-marker-icon leaflet-zoom-hide leaflet-interactive"
+                  src="./img/pin-active.svg"
+                  style="margin-left: -13.5px; margin-top: -19.5px; width: 27px; height: 39px; left: 41px; top: -9px; z-index: -9;"
+                  tabindex="0"
+                />
+              </div>
+              <div
+                class="leaflet-pane leaflet-tooltip-pane"
+              />
+              <div
+                class="leaflet-pane leaflet-popup-pane"
+              />
+            </div>
+            <div
+              class="leaflet-control-container"
+            >
+              <div
+                class="leaflet-top leaflet-left"
+              />
+              <div
+                class="leaflet-top leaflet-right"
+              />
+              <div
+                class="leaflet-bottom leaflet-left"
+              />
+              <div
+                class="leaflet-bottom leaflet-right"
+              >
+                <div
+                  class="leaflet-control-attribution leaflet-control"
+                >
+                  <a
+                    href="https://leafletjs.com"
+                    title="A JS library for interactive maps"
+                  >
+                    Leaflet
+                  </a>
+                   | © 
+                  <a
+                    href="https://www.openstreetmap.org/copyright"
+                  >
+                    OpenStreetMap
+                  </a>
+                   contributors © 
+                  <a
+                    href="https://carto.com/attributions"
+                  >
+                    CARTO
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </section>
+      <div
+        class="container"
+      >
+        <section
+          class="near-places places"
+        >
+          <h2
+            class="near-places__title"
+          >
+            Other places in the neighbourhood
+          </h2>
+          <div
+            class="near-places__list places__list "
+          >
+            <article
+              class="near-places__card place-card"
+              data-testid="mouse"
+            >
+              <div
+                class="place-card__mark"
+              >
+                <span>
+                  Premium
+                </span>
+              </div>
+              <div
+                class="near-places__image-wrapper place-card__image-wrapper"
+                data-testid="scroll"
+              >
+                <a
+                  href="/offer/1"
+                >
+                  <img
+                    alt="Place image"
+                    class="place-card__image"
+                    height="200"
+                    src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/19.jpg"
+                    width="260"
+                  />
+                </a>
+              </div>
+              <div
+                class=" place-card__info"
+              >
+                <div
+                  class="place-card__price-wrapper"
+                >
+                  <div
+                    class="place-card__price"
+                  >
+                    <b
+                      class="place-card__price-value"
+                    >
+                      €
+                      161
+                    </b>
+                    <span
+                      class="place-card__price-text"
+                    >
+                      / night
+                    </span>
+                  </div>
+                  <button
+                    class="place-card__bookmark-button button false"
+                    type="button"
+                  >
+                    <svg
+                      class="place-card__bookmark-icon"
+                      height="19"
+                      width="18"
+                    >
+                      <use
+                        href="#icon-bookmark"
+                        xlink="true"
+                      />
+                    </svg>
+                    <span
+                      class="visually-hidden"
+                    >
+                      To bookmarks
+                    </span>
+                  </button>
+                </div>
+                <div
+                  class="place-card__rating rating"
+                >
+                  <div
+                    class="place-card__stars rating__stars"
+                  >
+                    <span
+                      style="width: 40%;"
+                    />
+                    <span
+                      class="visually-hidden"
+                    >
+                      Rating
+                    </span>
+                  </div>
+                </div>
+                <h2
+                  class="place-card__name"
+                >
+                  <a
+                    href="/offer/1"
+                  >
+                    Tile House
+                  </a>
+                </h2>
+                <p
+                  class="place-card__type"
+                >
+                  house
+                </p>
+              </div>
+            </article>
+            <article
+              class="near-places__card place-card"
+              data-testid="mouse"
+            >
+              <div
+                class="place-card__mark"
+              >
+                <span>
+                  Premium
+                </span>
+              </div>
+              <div
+                class="near-places__image-wrapper place-card__image-wrapper"
+                data-testid="scroll"
+              >
+                <a
+                  href="/offer/2"
+                >
+                  <img
+                    alt="Place image"
+                    class="place-card__image"
+                    height="200"
+                    src="https://assets.htmlacademy.ru/intensives/javascript-3/hotel/19.jpg"
+                    width="260"
+                  />
+                </a>
+              </div>
+              <div
+                class=" place-card__info"
+              >
+                <div
+                  class="place-card__price-wrapper"
+                >
+                  <div
+                    class="place-card__price"
+                  >
+                    <b
+                      class="place-card__price-value"
+                    >
+                      €
+                      161
+                    </b>
+                    <span
+                      class="place-card__price-text"
+                    >
+                      / night
+                    </span>
+                  </div>
+                  <button
+                    class="place-card__bookmark-button button false"
+                    type="button"
+                  >
+                    <svg
+                      class="place-card__bookmark-icon"
+                      height="19"
+                      width="18"
+                    >
+                      <use
+                        href="#icon-bookmark"
+                        xlink="true"
+                      />
+                    </svg>
+                    <span
+                      class="visually-hidden"
+                    >
+                      To bookmarks
+                    </span>
+                  </button>
+                </div>
+                <div
+                  class="place-card__rating rating"
+                >
+                  <div
+                    class="place-card__stars rating__stars"
+                  >
+                    <span
+                      style="width: 80%;"
+                    />
+                    <span
+                      class="visually-hidden"
+                    >
+                      Rating
+                    </span>
+                  </div>
+                </div>
+                <h2
+                  class="place-card__name"
+                >
+                  <a
+                    href="/offer/2"
+                  >
+                    Tile House
+                  </a>
+                </h2>
+                <p
+                  class="place-card__type"
+                >
+                  house
+                </p>
+              </div>
+            </article>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+</div>
+`;

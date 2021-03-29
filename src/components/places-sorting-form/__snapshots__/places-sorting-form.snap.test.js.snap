@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test PlacesSortingForm component PlacesSortingForm component should render correctly 1`] = `
+<div>
+  <form
+    action="#"
+    class="places__sorting"
+    method="get"
+  >
+    <span
+      class="places__sorting-caption"
+    >
+      Sort by
+    </span>
+    <span
+      class="places__sorting-type"
+      tabindex="0"
+    >
+      Popular
+      <svg
+        class="places__sorting-arrow"
+        height="4"
+        width="7"
+      >
+        <use
+          href="#icon-arrow-select"
+          xlink="true"
+        />
+      </svg>
+    </span>
+  </form>
+</div>
+`;

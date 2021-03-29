@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test PlacesOptionsList component PlacesOptionsList component should render correctly 1`] = `
+<div>
+  <ul
+    class="places__options places__options--custom places__options--opened"
+  >
+    <li
+      class="places__option places__option--active"
+      data-testid="option"
+      tabindex="0"
+    >
+      Popular
+    </li>
+    <li
+      class="places__option false"
+      data-testid="option"
+      tabindex="0"
+    >
+      Price: low to high
+    </li>
+    <li
+      class="places__option false"
+      data-testid="option"
+      tabindex="0"
+    >
+      Price: high to low
+    </li>
+    <li
+      class="places__option false"
+      data-testid="option"
+      tabindex="0"
+    >
+      Top rated first
+    </li>
+  </ul>
+</div>
+`;

@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test PropertyReviewItem component PropertyReviewItem component should render correctly 1`] = `
+<div>
+  <li
+    class="reviews__item"
+  >
+    <div
+      class="reviews__user user"
+    >
+      <div
+        class="reviews__avatar-wrapper user__avatar-wrapper"
+      >
+        <img
+          alt="Reviews avatar"
+          class="reviews__avatar user__avatar"
+          height="54"
+          src="https://assets.htmlacademy.ru/intensives/javascript-3/avatar/2.jpg"
+          width="54"
+        />
+      </div>
+      <span
+        class="reviews__user-name"
+      >
+        Jack
+      </span>
+    </div>
+    <div
+      class="reviews__info"
+    >
+      <div
+        class="reviews__rating rating"
+      >
+        <div
+          class="reviews__stars rating__stars"
+        >
+          <span
+            style="width: 60%;"
+          />
+          <span
+            class="visually-hidden"
+          >
+            Rating
+          </span>
+        </div>
+      </div>
+      <p
+        class="reviews__text"
+      >
+        I stayed here for one night and it was an unpleasant experience.
+      </p>
+      <time
+        class="reviews__time"
+        datetime="2019-04-24"
+      >
+        February 2021
+      </time>
+    </div>
+  </li>
+</div>
+`;

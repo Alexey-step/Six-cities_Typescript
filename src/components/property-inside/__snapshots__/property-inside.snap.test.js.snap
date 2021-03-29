@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test PropertyInside component PropertyInside component should render correctly 1`] = `
+<div>
+  <div
+    class="property__inside"
+  >
+    <h2
+      class="property__inside-title"
+    >
+      What's inside
+    </h2>
+    <ul
+      class="property__inside-list"
+    >
+      <li
+        class="property__inside-item"
+      >
+        Laptop friendly workspace
+      </li>
+      <li
+        class="property__inside-item"
+      >
+        Washer
+      </li>
+      <li
+        class="property__inside-item"
+      >
+        Breakfast
+      </li>
+      <li
+        class="property__inside-item"
+      >
+        Air conditioning
+      </li>
+    </ul>
+  </div>
+</div>
+`;
