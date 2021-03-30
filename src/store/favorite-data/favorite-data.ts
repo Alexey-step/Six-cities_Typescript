@@ -2,7 +2,7 @@ import {createReducer} from '@reduxjs/toolkit';
 import {setFavorite, updateFavorites} from "../action-creators";
 import {Offer} from "../../propTypes";
 
-interface FavoriteDataInitialStateType {
+export interface FavoriteDataInitialStateType {
   favorites: Array<Offer>
 }
 

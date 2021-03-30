@@ -3,7 +3,7 @@ import {setCity, setOption, setOffers, updateOffers, setIsError, setIsDataLoaded
 import {Options, Cities} from "../../const";
 import {Offer} from "../../propTypes";
 
-interface MainDataInitialStateType {
+export interface MainDataInitialStateType {
   activeLocation: string,
   offers: Array<Offer>,
   option: string,
