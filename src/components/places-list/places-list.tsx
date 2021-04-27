@@ -1,7 +1,7 @@
 import * as React from "react";
 import Card from "../card/card";
 import {Type} from "../../const";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 
 interface Props {
   offers: Array<Offer>,

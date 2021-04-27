@@ -1,17 +1,17 @@
 import {createReducer} from "@reduxjs/toolkit";
 import {setCity, setOption, setOffers, updateOffers, setIsError, setIsDataLoaded} from "../action-creators";
 import {Options, Cities} from "../../const";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 
-export interface MainDataInitialStateType {
+export interface MainDataInitialState {
   activeLocation: string,
-  offers: Array<Offer>,
+  offers: Offer[],
   option: string,
   isDataLoaded: boolean,
   isError: boolean
 }
 
-export const initialState: MainDataInitialStateType = {
+export const initialState: MainDataInitialState = {
   activeLocation: Cities.PARIS,
   offers: [],
   option: Options.POPULAR,

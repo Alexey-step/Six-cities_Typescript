@@ -1,5 +1,5 @@
 import * as React from "react";
-import {UserDetails} from "../../propTypes";
+import {UserDetails} from "../../types";
 
 interface Props {
   host: UserDetails,

@@ -1,6 +1,6 @@
 import {createReducer} from '@reduxjs/toolkit';
 import {setAuthorization} from "../action-creators";
-import {UserAuthorize} from "../../propTypes";
+import {UserAuthorize} from "../../types";
 
 export interface UserInitialStateType {
   authInfo: UserAuthorize,

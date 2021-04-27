@@ -1,6 +1,6 @@
 import {createReducer} from '@reduxjs/toolkit';
 import {setNearbyOffers, setReviews, setOffer, setIsLoaded, setDisabled, updateOffer, updateNearbyOffers} from "../action-creators";
-import {Offer, Review} from "../../propTypes";
+import {Offer, Review} from "../../types";
 
 export interface PropertyDataInitialStateType {
   offer: Offer,

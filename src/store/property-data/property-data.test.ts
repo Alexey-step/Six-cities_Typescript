@@ -6,7 +6,7 @@ import {fetchPropertyData, updateOffer, updateNearbyOffers, updateComments} from
 import {APIRoute} from "../../const";
 import {reviews, offers, offer, cards} from "../../mocks/tests-mocks";
 import {createAPI} from "../api/api";
-import {CommentPost} from "../../propTypes";
+import {CommentPost} from "../../types";
 
 export const api = createAPI(() => {});
 

@@ -5,7 +5,7 @@ import Map from "../map/map";
 import PlacesList from "../places-list/places-list";
 import PlacesSortingForm from "../places-sorting-form/places-sorting-form";
 import {updateOffers} from "../../store/api/api-actions";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 import {RootState} from "../../store/reducer";
 
 const Cities: React.FC = () => {

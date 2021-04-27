@@ -16,7 +16,7 @@ import {getActiveReviews} from "../../../store/property-data/selectors";
 import {AppRoute} from "../../../const";
 import withError from "../../../hocs/with-error/with-error";
 import {RootState} from "../../../store/reducer";
-import {Review} from "../../../propTypes"
+import {Review} from "../../../types"
 
 interface ParamsTypes {
   id: string

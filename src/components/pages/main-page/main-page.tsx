@@ -8,7 +8,7 @@ import Cities from "../../cities/cities";
 import CitiesEmpty from "../../cities-empty/cities-empty";
 import withError from "../../../hocs/with-error/with-error";
 import {RootState} from "../../../store/reducer";
-import {Offer} from "../../../propTypes"
+import {Offer} from "../../../types"
 
 const MainPage: React.FC = () => {
   const {isDataLoaded} = useSelector((state: RootState) => state.MAIN);

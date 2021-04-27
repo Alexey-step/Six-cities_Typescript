@@ -1,4 +1,4 @@
-import {mainData, initialState} from "./main-data";
+import {mainData, initialState, MainDataInitialState} from "./main-data";
 import * as ActionCreator from "../action-creators";
 import {ActionType} from "../actions";
 import MockAdapter from "axios-mock-adapter";
@@ -47,7 +47,8 @@ describe(`Reducer work correctly`, () => {
       });
   });
   it(`Reducer should change offers with updateOffers action creator`, () => {
-    const state: any = {
+    const state = {
+      ...initialState,
       offers: cards.start
     };
     const expectedState = {

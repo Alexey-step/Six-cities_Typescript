@@ -1,6 +1,6 @@
 import {ActionType} from "./actions";
 import {createAction} from '@reduxjs/toolkit';
-import {UserAuthorize, Offer, Review} from "../propTypes"
+import {UserAuthorize, Offer, Review} from "../types"
 
 export const setCity = createAction(ActionType.SET_CITY, (city: string) => {
   return {

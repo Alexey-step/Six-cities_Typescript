@@ -2,7 +2,7 @@ import * as React from "react";
 import PlacesList from "../places-list/places-list";
 import {useDispatch} from "react-redux";
 import {updateFavorites} from "../../store/api/api-actions";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 
 interface Props {
   city: string,

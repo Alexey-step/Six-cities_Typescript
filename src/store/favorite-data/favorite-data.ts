@@ -1,6 +1,6 @@
 import {createReducer} from '@reduxjs/toolkit';
 import {setFavorite, updateFavorites} from "../action-creators";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 
 export interface FavoriteDataInitialStateType {
   favorites: Array<Offer>

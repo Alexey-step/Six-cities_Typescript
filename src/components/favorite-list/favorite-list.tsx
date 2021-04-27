@@ -1,7 +1,7 @@
 import * as React from "react";
 import FavoriteItems from "../favorite-items/favorite-items";
 import {Cities} from "../../const";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 
 interface Props {
   offers: Array<Offer>,

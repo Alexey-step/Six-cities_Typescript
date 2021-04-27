@@ -1,22 +1,4 @@
-import {Offer, Review, UserAuthorize} from "../propTypes";
-
-// export const SET_CITY = `main/setCity`;
-// export const SET_OPTION = `main/setOption`;
-// export const SET_AUTHORIZATION = `user/setAuthorization`;
-// export const SET_OFFERS = `main/setOffers`;
-// export const SET_NEABY_OFFERS = `proprty/setNearbyOffers`;
-// export const SET_REVIEWS = `proprty/setReviews`;
-// export const SET_FAVORITES = `favorite/setFavorites`;
-// export const REDIRECT_TO_ROUTE = `login/redirectToRoute`;
-// export const SET_OFFER = `property/setOffer`;
-// export const SET_IS_LOADED = `property/setIsLoaded`;
-// export const SET_DISABLED = `property/setDisabled`;
-// export const SET_IS_ERROR = `property/setIsError`;
-// export const UPDATE_OFFERS = `main/updateOffers`;
-// export const UPDATE_FAVORITES = `favorite/updateFavorites`;
-// export const UPDATE_OFFER = `property/updateOffer`;
-// export const UPDATE_NEARBY_OFFERS = `property/updateNearbyOffers`;
-// export const SET_IS_DATA_LOADED = `main/setIsDataLoaded`;
+import {Offer, Review, UserAuthorize} from "../types";
 
 export enum ActionType {
   SET_CITY = `main/setCity`,

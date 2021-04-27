@@ -4,7 +4,7 @@ import {useSelector} from "react-redux";
 import {getRating} from "../../common";
 import {Type} from "../../const";
 import {AppRoute} from "../../const";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 import {RootState} from "../../store/reducer";
 
 interface Props {

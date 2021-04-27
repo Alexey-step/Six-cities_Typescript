@@ -1,6 +1,6 @@
 import * as React from "react";
 import {getRating} from "../../common";
-import {Review} from "../../propTypes";
+import {Review} from "../../types";
 
 interface Props {
   review: Review

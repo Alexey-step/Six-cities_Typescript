@@ -1,7 +1,7 @@
 import * as React from "react";
 import * as leaflet from "leaflet";
 import {MapStyle} from "../../const";
-import {Offer} from "../../propTypes";
+import {Offer} from "../../types";
 
 import "../../../node_modules/leaflet/dist/leaflet.css";
 

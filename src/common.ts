@@ -1,5 +1,5 @@
 import {WIDTH_PER_STAR} from "./const";
-import {Offer, Review, UserAuthorize} from "./propTypes";
+import {Offer, Review, UserAuthorize} from "./types";
 
 const getRating = (item: number) => {
   const itemRating = Math.round(item);

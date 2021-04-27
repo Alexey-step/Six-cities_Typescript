@@ -2,7 +2,7 @@ import * as React from "react";
 import PropertyForm from "../property-form/property-form";
 import PropertyReviewItem from "../property-review-item/property-review-item";
 import {useSelector} from "react-redux";
-import {Review} from "../../propTypes";
+import {Review} from "../../types";
 import {RootState} from "../../store/reducer";
 
 interface Props {
