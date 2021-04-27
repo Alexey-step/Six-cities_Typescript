@@ -22,7 +22,7 @@ interface ParamsTypes {
   id: string
 }
 
-const Property = () => {
+const Property:React.FC = () => {
   const {id} = useParams<ParamsTypes>();
   const dispatch = useDispatch();
   const history = useHistory();
